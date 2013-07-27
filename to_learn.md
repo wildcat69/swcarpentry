@@ -1,13 +1,14 @@
-Things we are learning at SWC
+things we are learning at SWC
 =============================
+*shell
+**ls
+**cat
+**pipe
+***cp rm, etc.
 
-* shell
-** ls
-** cat
-** pipe
-
-* git
-** Initialize git repos.
-** Add files to git repos.
-** Commit messages.
-** Atomic commits.
+*git
+**initialize git repos
+**add files to git repos
+**commit messages
+**atomic commits
+*** push fetch etc.
