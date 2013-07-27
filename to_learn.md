@@ -4,5 +4,7 @@
 ** pipe
 
 * git
-** initialize git repos
+** Initialize git repos.
 ** add files to git repos
+** commit messages
+** atomic commits
